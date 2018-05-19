@@ -1,0 +1,86 @@
+[
+    {
+        "nome": "Pedro",
+        "idade": 16,
+        "sexo": "masculino",
+        "id": 1
+    },
+    {
+        "nome": "Ara",
+        "idade": 14,
+        "sexo": "feminino",
+        "id": 3
+    },
+    {
+        "nome": "Victor",
+        "idade": 16,
+        "sexo": "col\u0000ide",
+        "id": 4
+    },
+    {
+        "nome": "Vicente Gabriel",
+        "idade": 19,
+        "sexo": "Masculino",
+        "id": 67
+    },
+    {
+        "nome": "Pedro Gabriel",
+        "idade": 16,
+        "sexo": "Masculino",
+        "id": 5
+    },
+    {
+        "nome": "Peter",
+        "idade": 14,
+        "sexo": "masc",
+        "id": 6
+    },
+    {
+        "nome": "Gabriel",
+        "idade": 17,
+        "sexo": "masc",
+        "id": 7
+    },
+    {
+        "nome": "Asnolfo",
+        "idade": 192,
+        "sexo": "not exist",
+        "id": 8
+    },
+    {
+        "nome": "Clara",
+        "idade": 15,
+        "sexo": "feminino",
+        "id": 9
+    },
+    {
+        "nome": "duda",
+        "idade": 16,
+        "sexo": "feminino",
+        "id": 10
+    },
+    {
+        "nome": "larissa",
+        "idade": 16,
+        "sexo": "feminino",
+        "id": 11
+    },
+    {
+        "nome": "Pedro Guardini",
+        "idade": 18,
+        "sexo": "Masculino",
+        "id": 99
+    },
+    {
+        "nome": "Pedro Gabriel Guardini",
+        "idade": 180,
+        "sexo": "Masculino",
+        "id": 98
+    },
+    {
+        "nome": "Pedro Guardini Gabiatti",
+        "idade": 8,
+        "sexo": "Masculino",
+        "id": 129
+    }
+]
